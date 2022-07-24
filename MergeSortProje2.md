@@ -29,13 +29,13 @@
 
 Buraya kadar olan adimlarda  Big- O Natation 
           
-                    2^x= n  => x= (log⁡〖2n)〗
-n boyutundaki bir dizinin n parcaya bölünmesi O(log⁡〖n)〗  dir.
+                    2^x= n  => x= (log⁡(2n))
+n boyutundaki bir dizinin n parcaya bölünmesi O(log⁡ (n))  dir.
 Bundan sonraki adimda  tüm alt dizilerin birleştirilmesi , O(n) zaman alır. Dolayisiyla O(n log⁡〖n)〗dir.
 
 Worst- Case = Listenin büyükten kücüge dizilmis bir sekilde
 
 Best- Case = Listenin kücükten büyüge sirali verilmesi
 
-Burda bizim icin fark etmiycek ne yazik ki biz mecburen bölme  ve tekrar birlestirme islemini yapacagiz . Dolayisiyla Timekomplex daima   O(n log⁡〖n)〗 .
+Burda bizim icin fark etmiycek ne yazik ki biz mecburen bölme  ve tekrar birlestirme islemini yapacagiz . Dolayisiyla Timekomplex daima   O(n log⁡(n)) .
 
