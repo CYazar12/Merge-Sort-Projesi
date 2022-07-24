@@ -6,8 +6,8 @@
 # Merge Sort Projesi
 # Proje 2
 
-[16,21,11,8,12,22] -> Merge Sort
-### Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+### [16,21,11,8,12,22] -> Merge Sort
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 	Step :Divide [16,21,11] [8,12,22] 
 	Step :Divide [16,21] [11] [8,12] [22] 
@@ -16,7 +16,9 @@
 	Step :Merge  [8, 11, 16, 21] [12,22]
 	Step :Sorted Array [8, 11, 12, 16, 21, 22]
 
-### Big-O gösterimini yazınız: Burda Big – O gösterimini 2 etapta inceleyecegiz. Öncelikle bu dizinin bölümlenmesini birinci bölüm olarak ele alacagiz. 2. bölüm olarakta bölümlere ayrilan alt dizinlerin  siralanip tekrar dizilmesini inceleyecegiz. Burdan elde edilen  Big- O fonksiyonlarini birlestirip  dizin icin MergeSort  Big-O sunu elde edecegiz. 
+### Big-O gösterimini yazınız: 
+
+Burda Big – O gösterimini 2 etapta inceleyecegiz. Öncelikle bu dizinin bölümlenmesini birinci bölüm olarak ele alacagiz. 2. bölüm olarakta bölümlere ayrilan alt dizinlerin  siralanip tekrar dizilmesini inceleyecegiz. Burdan elde edilen  Big- O fonksiyonlarini birlestirip  dizin icin MergeSort  Big-O sunu elde edecegiz. 
 	
 	Step 1 Divide   n/2        n/2
 	
