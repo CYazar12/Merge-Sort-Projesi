@@ -31,7 +31,7 @@ Buraya kadar olan adimlarda  Big- O Natation
           
                     2^x= n  => x= (log⁡(2n))
 n boyutundaki bir dizinin n parcaya bölünmesi O(log⁡ (n))  dir.
-Bundan sonraki adimda  tüm alt dizilerin birleştirilmesi , O(n) zaman alır. Dolayisiyla O(n log⁡〖n)〗dir.
+Bundan sonraki adimda  tüm alt dizilerin birleştirilmesi , O(n) zaman alır. Dolayisiyla O(n log⁡(n))dir.
 
 Worst- Case = Listenin büyükten kücüge dizilmis bir sekilde
 
