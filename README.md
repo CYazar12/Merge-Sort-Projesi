@@ -1,4 +1,4 @@
 
-# (www.patika.dev) 
+(www.patika.dev) 
 Merge-Sort-Projesi
 Merge Sort Projesi
